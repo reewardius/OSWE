@@ -12,3 +12,4 @@
 9. Mango https://0xdf.gitlab.io/2020/04/18/htb-mango.html
 10. Magic https://0xdf.gitlab.io/2020/08/22/htb-magic.html
 11. JSON https://habr.com/ru/post/488546/
+12. CrossFit https://youtu.be/htDzTiqgZs8
